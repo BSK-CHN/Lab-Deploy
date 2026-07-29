@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: lab-app
-          image: docker.io/REPLACE_ME/lab-app:latest
+          image: docker.io/BSK-CHN/lab-app:ea8f9a0
           ports:
             - containerPort: 80
 ---
