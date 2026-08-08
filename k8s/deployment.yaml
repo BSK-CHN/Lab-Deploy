@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: lab-app
-          image: docker.io/thecloudschool/lab-app:7c9917695776eb8502ba5fd10a14d1131581ba62
+          image: docker.io/thecloudschool/lab-app:c4d4fe3c45e4af576924aeaa6b85b4302285cc19
           ports:
             - containerPort: 80
 ---
